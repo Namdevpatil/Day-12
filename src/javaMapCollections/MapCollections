@@ -1,0 +1,3 @@
+key-value based collections:
+
+		- for example, Map => HashMap, LinkedHashMap, TreeMap, Hashtable and ConcurrentHashMap
